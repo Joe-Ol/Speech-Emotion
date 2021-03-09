@@ -8,7 +8,6 @@ Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
 https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
 
 ## Libraries
-Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Library | Ref. |
