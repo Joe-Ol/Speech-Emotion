@@ -18,6 +18,3 @@ Instructions on how to use them in your own application are linked below.
 
 ## License
 MIT
-
-## Updates
-- Handling overfitting
